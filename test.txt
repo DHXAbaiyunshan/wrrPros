@@ -2,4 +2,5 @@ my test txt file.
 free2912
 new line
 another line
-my line.
+upstream
+my line
