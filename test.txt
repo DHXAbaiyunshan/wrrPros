@@ -1,4 +1,2 @@
 my test txt file.
 free2912
-a new line
-hallo
